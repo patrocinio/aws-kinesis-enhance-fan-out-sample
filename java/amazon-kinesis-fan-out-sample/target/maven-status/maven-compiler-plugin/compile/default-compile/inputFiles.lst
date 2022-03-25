@@ -1,0 +1,5 @@
+/Users/edu/github/amazon-kinesis-producer/java/amazon-kinesis-producer-sample/src/com/amazonaws/services/kinesis/producer/sample/Utils.java
+/Users/edu/github/amazon-kinesis-producer/java/amazon-kinesis-producer-sample/src/com/amazonaws/services/kinesis/producer/sample/MetricsAwareSampleProducer.java
+/Users/edu/github/amazon-kinesis-producer/java/amazon-kinesis-producer-sample/src/com/amazonaws/services/kinesis/producer/sample/SampleProducer.java
+/Users/edu/github/amazon-kinesis-producer/java/amazon-kinesis-producer-sample/src/com/amazonaws/services/kinesis/producer/sample/SampleProducerConfig.java
+/Users/edu/github/amazon-kinesis-producer/java/amazon-kinesis-producer-sample/src/com/amazonaws/services/kinesis/producer/sample/SampleConsumer.java
