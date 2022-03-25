@@ -1,0 +1,1 @@
+# aws-kinesis-enhance-fan-out-sample
